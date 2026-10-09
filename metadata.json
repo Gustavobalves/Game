@@ -1,0 +1,8 @@
+{
+  "name": "Remix Apex Drift \u0026 Racing Simulator",
+  "description": "Simulador de corrida e drift 3D hiper-realista com personalização completa de cores, motores e carros esportivos icônicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
